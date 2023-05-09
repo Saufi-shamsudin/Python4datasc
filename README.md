@@ -10,3 +10,7 @@ Saya sebenarnya akan share code dan video dalam youtube supaya korang follow alo
 5. Untuk visualization kita akan pakai Tableau
 6. kita akan buat ETL juga
 
+#Nota pesanan
+1. dia mula2 memang blur tapi lama-lama awak semua akan faham bila semuanya connect each other
+
+
